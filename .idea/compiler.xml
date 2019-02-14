@@ -9,7 +9,6 @@
         <module name="bolg" />
         <module name="demo-ribbon" />
         <module name="demo-server" />
-        <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
