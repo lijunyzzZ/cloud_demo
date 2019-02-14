@@ -5,8 +5,12 @@ public class User {
     private String name;
     private Double sal;
 
-    public User() {
+    public User(Integer id,String name,Double sal) {
+        this.id = id;
+        this.name = name;
+        this.sal = sal;
     }
+    public User(){};
 
     public Integer getId() {
         return id;

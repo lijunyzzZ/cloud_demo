@@ -39,5 +39,7 @@
             </dataSource>
         </environment>
     </environments>
-
+    <mappers>
+        <mapper resource="UserSup.xml"/>
+    </mappers>
 </configuration>
