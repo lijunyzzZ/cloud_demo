@@ -3,7 +3,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <!-- namespace属性是名称空间，必须唯一 -->
-<mapper namespace="UserId">
+<mapper namespace="com.character.mapper.UserMapper">
 
     <!-- resultMap标签:映射实体与表
          type属性：表示实体全路径名

@@ -41,5 +41,6 @@
     </environments>
     <mappers>
         <mapper resource="UserSup.xml"/>
+        <mapper resource="mapperConf.xml"/>
     </mappers>
 </configuration>
